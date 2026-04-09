@@ -1,6 +1,7 @@
 <h2>Página inicial</h2>
 <img width="1366" height="720" alt="inicio1" src="https://github.com/user-attachments/assets/e8744282-89d9-4c25-91ec-9933d10a8b41" />
 <img width="1366" height="720" alt="Inicio2" src="https://github.com/user-attachments/assets/14ce874e-96c5-45b3-b0f0-8762dcac9ae1" />
+
 <h2>Cursos</h2>
 <img width="1366" height="720" alt="cursos1" src="https://github.com/user-attachments/assets/64df87cb-7e01-4f35-899d-d5b0cb4a3c55" />
 <img width="1366" height="720" alt="cursos2" src="https://github.com/user-attachments/assets/8761cc27-f360-4712-abc7-a6def5112523" />
